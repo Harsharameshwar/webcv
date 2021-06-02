@@ -1,0 +1,32 @@
+body {
+  background-color: #EAF6F6  ;
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
+b {
+  color: #66BFBF;
+}
+html * {
+  font-family: sans-serif;
+}
+.header{
+  color: #0A1931;
+}
+#head{
+  color: #F7A440
+}
+img:hover {
+  background-color: gold;
+}
